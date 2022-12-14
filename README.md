@@ -1,4 +1,4 @@
-# Alcohol-Consumption-and-Grade-Analysis
+## Background and Problem Statement
 
 Education is an integral factor in development or upliftment of any social group. It is also an essential
 part of any humans’ life: that shapes their personal outlook and opinions and helps them progress. That
@@ -23,3 +23,10 @@ geographical, social and demographic data points like study time, travel time, h
 compared to find trends affecting students’ grades and the aforementioned analysis on alcohol consumption
 is used to determine relationship between students’ grades and alcohol consumption in Deep dive into
 factors impacting grades among mathematics students in Portuguese Schools.
+
+
+## Ready to play with this project?
+
+Data, code, and report has been uploaded in the folder. See additional logical details in report, feel free to modify the data path and name in code.r to run the code, and figure out what happened in each line to get those graphs. You will see the power of R, even basic R, in processing and analyzing the data. Welcome to point out potential mistakes by a pull request and enjoy the project!
+
+
