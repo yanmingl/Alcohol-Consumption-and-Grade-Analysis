@@ -24,6 +24,9 @@ compared to find trends affecting students’ grades and the aforementioned anal
 is used to determine relationship between students’ grades and alcohol consumption in Deep dive into
 factors impacting grades among mathematics students in Portuguese Schools.
 
+Here is an example,
+![image](https://user-images.githubusercontent.com/49282511/208033353-4fa3fe39-5823-4e3f-979c-530a33de5521.png)
+
 
 ## Ready to play with this project?
 
