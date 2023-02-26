@@ -1,35 +1,23 @@
 ## Background and Problem Statement
 
-Education is an integral factor in development or upliftment of any social group. It is also an essential
-part of any humans’ life: that shapes their personal outlook and opinions and helps them progress. That
-is why the dataset “Student Alcohol Consumption” was chosen by this group for our hackathon. This data
-comprises of drinking habits, grades, demographic information and other social factors (parents’ education,
-family size, relationship status, etc) for school-going students in Portugal from 2005-2006. Eurostat’s “Early
-leavers from education and training by sex and labour status” data from 2007 shows Portugal’s early leaver
-from education rate as 36.5% against European Union’s average of 15%, thus emphasizing the significance
-of this subject and its analysis.
+Education is a crucial factor in the development and progress of any society, and its importance cannot be overstated. The acquisition of knowledge and skills is not only important for personal growth but also plays a critical role in shaping one's worldview and opinions. To this end, the "Student Alcohol Consumption" dataset was selected for our hackathon, as it provides valuable information on the drinking habits, grades, demographic information, and other social factors of school-going students in Portugal during 2005-2006. This dataset is particularly relevant given Portugal's historically high early-leaver rate from education and training, which reached 36.5% in 2007, well above the European Union average of 15%. Although Portugal has made significant strides in addressing its education crisis, with a dropout rate of 8.9% in 2020, we believe that analyzing factors that impact student alcohol consumption and academic performance can provide valuable insights into addressing educational challenges in Portugal.
 
-Even though Portugal has since pulled through their education crisis exhibiting dropout rate of 8.9% against
-EU’s average of 9.9% in 2020, we aim to explore causation, relations and insights from students’ alcohol consumption habits, their grades, and social factors they may be affected by. This report is divided into three sections: **Understanding Student Audience in Mathematics class of Portuguese Schools, Analyzing
-factors impacting alcohol consumption among math students in Portuguese Schools, Deep dive
-into factors impacting grades among mathematics students in Portuguese Schools.**
+Our report is divided into three sections. The first section, "Understanding Student Audience in Mathematics class of Portuguese Schools," focuses on exploratory data analysis to gain a comprehensive understanding of the dataset, identify key areas of interest, and determine the next steps for analysis. The second section, "Analyzing factors impacting alcohol consumption among math students in Portuguese Schools," examines the relationship between Portuguese students' alcohol consumption habits and demographic and social factors, such as age, parents' jobs, and social life. Finally, the third section, "Deep dive into factors impacting grades among mathematics students in Portuguese Schools," explores the impact of geographical, social, and demographic data points, such as study time, travel time, health, and internet access, on students' academic performance. The analysis on alcohol consumption is then used to determine the relationship between students' grades and alcohol consumption.
+
+Overall, our analysis aims to provide valuable insights into the factors that impact student alcohol consumption and academic performance in Portugal, with the ultimate goal of informing educational policy and practice.
 
 
-In Understanding Student Audience in Mathematics class of Portuguese Schools, exploratory
-data analysis is conducted on the dataset to understand the dataset, look for points of interest and determine what portion of the data should be explored next. Alcohol consumption habits of Portuguese students
-are compared against demographic and social indicators such as age, parents’ jobs, social life in Analyzing
-factors impacting alcohol consumption among math students in Portuguese Schools. Finally,
-geographical, social and demographic data points like study time, travel time, health, and internet access are
-compared to find trends affecting students’ grades and the aforementioned analysis on alcohol consumption
-is used to determine relationship between students’ grades and alcohol consumption in Deep dive into
-factors impacting grades among mathematics students in Portuguese Schools.
 
-Here is an example,
+Here are some graphs,
 ![image](https://user-images.githubusercontent.com/49282511/208033353-4fa3fe39-5823-4e3f-979c-530a33de5521.png)
 
 
 ## Ready to play with this project?
 
-Data, code, and report has been uploaded in the folder. See additional logical details in report, feel free to modify the data path and name in code.r to run the code, and figure out what happened in each line to get those graphs. You will see the power of R, even basic R, in processing and analyzing the data. Welcome to point out potential mistakes by a pull request and enjoy the project!
+The data, code, and report have been uploaded to the designated folder. For further details, please refer to the `report` for additional logical explanations. To run the code, you may modify the data path and name in the `code.r` file. 
+
+This project showcases the capability of R, even its basic functions, in processing and analyzing data.
+
+Any feedback or suggested corrections are welcomed via a pull request. We hope you find the project informative and enjoyable.
 
 
