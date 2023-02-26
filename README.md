@@ -9,7 +9,27 @@ Overall, our analysis aims to provide valuable insights into the factors that im
 
 
 Here are some graphs,
-![image](https://user-images.githubusercontent.com/49282511/208033353-4fa3fe39-5823-4e3f-979c-530a33de5521.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436568-3ff32db3-43c4-408f-b6c6-259ae9c75118.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436627-06c10740-1beb-49b4-9536-7a0319cef36f.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436652-5c291001-b04c-44d4-88a0-4790a6184eb8.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436674-35efd897-c030-4fa3-a520-a73b50213843.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436712-bd45626e-bc1d-4f28-b0b7-2b94a857bdba.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436744-82b2b9e4-933b-46cd-a9d8-c97a704b9679.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436842-716d2ae3-a5cf-4772-950b-763c074818b1.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436858-7a250cb2-49c8-4167-911b-2fdbb3b08b2c.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436876-304f4613-ea23-40a7-98e7-e319df4ddb3f.png)
+
+![image](https://user-images.githubusercontent.com/49282511/221436893-c26d4d20-d600-4035-b554-e70a1996b3fd.png)
+
 
 
 ## Ready to play with this project?
